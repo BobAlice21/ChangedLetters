@@ -1,0 +1,10 @@
+{
+    "name": "S to $ Converter",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Replaces all 'S' characters on a webpage with '$'",
+    "permissions": ["scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
